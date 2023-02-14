@@ -35,6 +35,16 @@ public class HlavniProgram {
         zofka.move(20);
         zofka.turnLeft(105);
         zofka.move(20);
+        zofka.turnLeft(180);
+        zofka.move(20);
+        zofka.turnRight(45);
+        zofka.move(100);
+        zofka.turnRight(60);
+        zofka.move(20);
+        zofka.turnRight(180);
+        zofka.move(20);
+        zofka.turnLeft(105);
+        zofka.move(20);
 
 
 
